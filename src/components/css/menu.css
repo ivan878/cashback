@@ -1,0 +1,10 @@
+.sd{
+    background-color: rgb(241, 238, 238);
+    box-shadow: rgb(241, 238, 238) 0px 1px 0px 1px;
+    height: 50px;
+    border-bottom: solid 1px;
+    border-color: rgb(241, 238, 238);
+}
+.liste{
+  color: black;
+}

@@ -1,0 +1,20 @@
+
+/* le miens */
+.co{
+    height: 1000px;
+    background-color: rgb(207, 209, 208);
+    padding: 5rem;
+}
+.itm{
+    
+    padding: 0.5rem;
+    background-color: rgb(255, 255, 255);
+    color:   grey;
+    font-weight: 300;
+    border: none;
+    border-radius: 30px;
+    
+}
+.crl{
+    color: rgb(41, 173, 74);
+}

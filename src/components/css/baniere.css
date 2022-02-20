@@ -1,0 +1,23 @@
+.barner{
+    height: 500px;
+    background-color: rgba(105, 221, 157, 0.507);
+    padding: 2rem;
+    
+}
+.img{
+    height: auto;
+    width: 100%;
+   
+}
+.colortext{
+    color:rgb(15, 224, 95);
+}
+.btn3{
+    padding: 15px;
+    margin: 5px;
+    background-color: rgb(21, 192, 44);
+    color: white;
+    border: none;
+    font-weight: bold;
+    border-radius: 10px;
+}

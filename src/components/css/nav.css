@@ -1,0 +1,43 @@
+.bg{
+    background-color: rgb(15, 224, 95);
+    overflow: hidden;
+    height: 100px;
+}
+.for{
+    width:100%!important;
+    height: 50px;
+}
+.title{
+    color: white;
+}
+.search{
+    width: 70px;
+    padding: 10px;
+    color: white;
+    background-color: rgb(41, 173, 74);
+    border: none;
+}
+
+.btn1{
+   
+    padding: 15px;
+    margin: 5px;
+    background-color: rgb(21, 192, 44);
+    color: white;
+    border: none;
+    font-weight: bold;
+}
+.btn2{
+   
+    padding: 15px;
+    margin: 5px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(15, 224, 95);
+    border: none;
+    font-weight: bold;
+}
+
+.bs{
+    box-shadow: 0px 1px 0px 1px;
+    color: rgb(15, 224, 95);
+}
